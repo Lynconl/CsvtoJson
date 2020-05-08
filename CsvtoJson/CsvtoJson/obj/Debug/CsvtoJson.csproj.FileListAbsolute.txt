@@ -1,0 +1,10 @@
+C:\Users\Lynconl\source\repos\CsvtoJson\CsvtoJson\obj\Debug\CsvtoJson.csprojAssemblyReference.cache
+C:\Users\Lynconl\source\repos\CsvtoJson\CsvtoJson\obj\Debug\CsvtoJson.Properties.Resources.resources
+C:\Users\Lynconl\source\repos\CsvtoJson\CsvtoJson\obj\Debug\CsvtoJson.csproj.GenerateResource.cache
+C:\Users\Lynconl\source\repos\CsvtoJson\CsvtoJson\obj\Debug\CsvtoJson.csproj.CoreCompileInputs.cache
+C:\Users\Lynconl\source\repos\CsvtoJson\CsvtoJson\bin\Debug\CsvtoJson.exe.config
+C:\Users\Lynconl\source\repos\CsvtoJson\CsvtoJson\bin\Debug\CsvtoJson.exe
+C:\Users\Lynconl\source\repos\CsvtoJson\CsvtoJson\bin\Debug\CsvtoJson.pdb
+C:\Users\Lynconl\source\repos\CsvtoJson\CsvtoJson\obj\Debug\CsvtoJson.exe
+C:\Users\Lynconl\source\repos\CsvtoJson\CsvtoJson\obj\Debug\CsvtoJson.pdb
+C:\Users\Lynconl\source\repos\CsvtoJson\CsvtoJson\obj\Debug\CsvtoJson.Form1.resources
